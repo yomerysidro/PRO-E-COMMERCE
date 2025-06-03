@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../AngularProjects"
+		},
+		{
+			"path": "../AngularProyect/ecommerce"
+		},
+		{
+			"path": "../../../Downloads/Ejemplo-STRUTS"
+		},
+		{
+			"path": "../Hackthon"
+		},
+		{
+			"path": "../../../Downloads/Responsive Admin Dashboard [Korsat_X_Parmaga]"
+		},
+		{
+			"path": "../Proyect"
+		},
+		{
+			"path": "../../../Downloads/Responsive-Admin-Dashboard-main"
+		},
+		{
+			"path": "../Practice"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Pro-E-commerce"
+	}
+}
